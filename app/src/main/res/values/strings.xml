@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LegionFTPClient</string>
+
+    <string name="title_connection">Connection</string>
+    <string name="title_filebrowsing">File Browser</string>
+    <string name="title_file_info">File Info</string>
+    <string name="title_file_options">Options</string>
+
+    <string name="title_choose_download_dir">Choose Download Directory</string>
+    <string name="title_choose_upload_file">Choose Upload File</string>
+    <string name="title_input_file_name">Input File Name</string>
+    <string name="title_input_folder_name">Input Folder Name</string>
+
+    <string name="error_file_already_exists">File already exists</string>
+
+    <string name="connection_hostname">Hostname</string>
+    <string name="connection_port">Port</string>
+    <string name="connection_username">Username</string>
+    <string name="connection_password">Password</string>
+    <string name="connection_authorize">Authorize</string>
+
+    <string name="options_file_info">Info</string>
+    <string name="options_file_delete">Delete</string>
+    <string name="options_file_download">Download</string>
+
+    <string name="button_ok">ok</string>
+    <string name="button_cancel">cancel</string>
+</resources>
